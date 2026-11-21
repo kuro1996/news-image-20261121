@@ -1,3 +1,7 @@
+[![news-image-20261121](https://make.fun/badge/news-image-20261121.svg)](https://make.fun/bounty/news-image-20261121)
+[![rank](https://make.fun/badge/news-image-20261121/kuro1996/news-image-20261121/rank.svg)](https://make.fun/bounty/news-image-20261121)
+[![reward](https://make.fun/badge/news-image-20261121/kuro1996/news-image-20261121/reward.svg)](https://make.fun/bounty/news-image-20261121)
+
 # News Image — 21 November 2026
 
 **Competition:** [news-image-20261121](https://make.fun/c/news-image-20261121) — *Sum up 21 November's world news in one image* ($100, 50 places paid).
